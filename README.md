@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences in my [About Me](https://arrecode.com/#/AboutMe)
 
-- ⚡ Fun fact: **You should be programming right now...**
+- ⚡ Fun fact: **you should be programming right now...**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
