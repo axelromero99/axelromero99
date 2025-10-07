@@ -3,19 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=axelromero99&label=Profile%20views&color=0e75b6&style=flat" alt="axelromero99" /> </p>
 
-- 🔭 I’m currently working on [my programming projects and as a Fullstack Web Developer](https://arrecode.com/#/Projects)
 
-- 🌱 I’m currently learning **Flask, ReactJS and Computer Science Theory and Algorithms**
-
-- 🤝 I’m looking for help with [the READMOS js library that i've made.](https://github.com/axelromero99/readmos)
-
-- 👨‍💻 All of my projects are available at [My Projects](https://arrecode.com/#/Projects)
-
-- 💬 Ask me about **Python, i love it!**
-
-- 📫 How to reach me in [Contact Me](https://arrecode.com/#/ContactMe)
-
-- 📄 Know about my experiences in my [About Me](https://arrecode.com/#/AboutMe)
 
 - ⚡ Fun fact: **you should be programming right now...**
 
