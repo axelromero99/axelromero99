@@ -25,6 +25,14 @@ metal — from deterministic C compiled to WebAssembly to real-time P2P netcode.
 
 ### Tech
 
-`TypeScript` · `JavaScript` · `Python` · `C` · `React` · `Next.js` · `Node.js` · `NestJS` · `MongoDB` · `AWS` · `WebAssembly` · `WebRTC` · `Three.js` · `Cybersecurity / DevSecOps` · `Testing`
+- **Languages** — TypeScript · JavaScript · Python · C · Rust · PHP · SQL
+- **Frontend** — React · Next.js · Three.js · PySide6/Qt · HTML/CSS · jQuery
+- **Backend** — Node.js · NestJS · Express
+- **Data &amp; storage** — MongoDB · Redis · Elasticsearch · SQL · SQLite
+- **Cloud &amp; DevOps** — AWS (Lambda, Beanstalk, EC2, S3, Route 53) · Cloudflare (Workers, Durable Objects, Pages) · Hetzner · Linux · Caddy · Traefik · Nginx · PM2 · CI/CD (GitHub Actions)
+- **Systems &amp; real-time** — WebAssembly (Emscripten) · WebRTC · Tauri · MediaPipe (computer vision) · deterministic simulation / lockstep netcode
+- **Security** — DevSecOps · hardening · pentesting · incident response · OWASP · NIST · ISO 27001 · PCI DSS
+- **Practice &amp; tooling** — testing (pytest, Playwright) · Git · Agile · tech leadership · AI-assisted dev (GPT, Codex, Claude Code)
+- **Also** — Figma · Photoshop/Illustrator · WordPress/WooCommerce · Mercado Pago
 
 <sub>English &amp; Spanish (fluent) · Full portfolio at <a href="https://axelromero.com">axelromero.com</a></sub>
