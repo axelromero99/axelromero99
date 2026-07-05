@@ -8,13 +8,14 @@
 
 ---
 
-I started coding at 8, making retro games in ActionScript 2.0, and got serious at 15.
-Since then I've moved through web &amp; software development, game dev, data science and
-cybersecurity — 8+ years shipping products in production.
+My first contact with programming was at 8, making retro games in ActionScript 2.0,
+and I've been doing it seriously since I was 15. Over the years I've worked across web
+&amp; software development, game dev, data science and cybersecurity, with 8+ years
+building products in production.
 
 Today I'm **Co-Founder &amp; CTO of [Destap](https://destap.app)** (a SaaS for venues) and
-**Developer Security Operations at Codercraft**. I like going deep: from deterministic C
-compiled to WebAssembly to serverless real-time netcode.
+work in **Developer Security Operations at Codercraft**. I like working close to the
+metal — from deterministic C compiled to WebAssembly to real-time P2P netcode.
 
 ### Featured work
 
