@@ -1,21 +1,29 @@
-<h1 align="center">Hi 👋, I'm Axel René Romero Esquivel [ arre[code] ]</h1>
-<h3 align="center">I'm a Sr. Software Engineer && Tech Lead</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=axelromero99&label=Profile%20views&color=0e75b6&style=flat" alt="axelromero99" /> </p>
-
-
-
-- ⚡ Fun fact: **you should be programming right now...**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/arrecode" target="blank"><img align="center" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" alt="arrecode" height="30" width="40" /></a>
-<a href="https://codesandbox.com/arrecode" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="arrecode" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/arrecode" target="blank"><img align="center" src="https://assets.leetcode.com/static_assets/public/webpack_bundles/images/logo-dark.e99485d9b.svg" alt="arrecode" height="30" width="40" /></a>
+<h1 align="center">Axel René Romero Esquivel</h1>
+<p align="center"><strong>Software Engineer · Co-Founder &amp; CTO</strong></p>
+<p align="center">
+  <a href="https://axelromero.com">axelromero.com</a> ·
+  <a href="https://www.linkedin.com/in/arrecode/">LinkedIn</a> ·
+  Córdoba, Argentina · Remote (any timezone)
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://www.gatsbyjs.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.qt.io/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=axelromero99&show_icons=true&locale=en&layout=compact" alt="axelromero99" /></p>
+I started coding at 8, making retro games in ActionScript 2.0, and got serious at 15.
+Since then I've moved through web &amp; software development, game dev, data science and
+cybersecurity — 8+ years shipping products in production.
 
+Today I'm **Co-Founder &amp; CTO of [Destap](https://destap.app)** (a SaaS for venues) and
+**Developer Security Operations at Codercraft**. I like going deep: from deterministic C
+compiled to WebAssembly to serverless real-time netcode.
+
+### Featured work
+
+- **[motumbo](https://github.com/axelromero99/motumbo)** · [▶ play](https://axelromero99.github.io/motumbo/) — Physics sumo game. The whole simulation is one deterministic C file compiled to WebAssembly (Box3D), with serverless lockstep multiplayer over WebRTC. ~340&nbsp;KB, physics engine included.
+- **[n64-web](https://github.com/axelromero99/n64-web)** · [▶ play](https://n64-web.axelromero99.workers.dev) — Nintendo 64 emulator in the browser: local up to 4 players, and online P2P over WebRTC (host streams video, guest sends input) on Cloudflare Workers + Durable Objects.
+- **[readmos](https://github.com/axelromero99/readmos)** — Open-source JS library that renders any public GitHub repo's README into your website via the GitHub API.
+
+### Tech
+
+`TypeScript` · `JavaScript` · `Python` · `C` · `React` · `Next.js` · `Node.js` · `NestJS` · `MongoDB` · `AWS` · `WebAssembly` · `WebRTC` · `Three.js` · `Cybersecurity / DevSecOps` · `Testing`
+
+<sub>English &amp; Spanish (fluent) · Full portfolio at <a href="https://axelromero.com">axelromero.com</a></sub>
